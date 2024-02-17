@@ -4,7 +4,7 @@ import '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css';
 import { MainContainer, ChatContainer, MessageList, Message, MessageInput, TypingIndicator } from '@chatscope/chat-ui-kit-react';
 
 
-const API_KEY = "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";
+const API_KEY = "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";
 // "Explain things like you would to a person who doesn't know much"
 const systemMessage = { //  Explain things like you are an extremely experienced environment and life on land expert 
   "role": "system", "content": "Explain things like you are an extremely experienced environment and life on land expert."
